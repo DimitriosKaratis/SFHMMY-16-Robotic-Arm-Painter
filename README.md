@@ -4,7 +4,7 @@ A 2-DOF robotic arm project developed for ΣΦΗΜΜΥ 16 workshop that combines
 
 <img src="https://i.imgur.com/7CiEBBA.jpg" alt="Robotic Arm Setup" width="600">
 
-## Overview
+## Overview 
 
 This project was created for the **"Autonomous Robotic Arm Motion: From Theory to Practice"** workshop, presented by the Icarus Project subteam of RAS (Robotics and Automation Society). The goal was to design and implement a robot painter that can receive coordinate data and autonomously draw continuous lines.
 
